@@ -1,0 +1,76 @@
+baseURL = 'https://ishakdev.github.io/'
+locale = 'id-ID'
+title = 'Nalar Digital'
+theme = 'PaperMod'
+
+paginate = 8
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = 'production'
+  title = 'Nalar Digital'
+  description = 'Blog tentang teknologi dan pemanfaatan AI untuk kehidupan manusia.'
+  keywords = ['AI', 'teknologi', 'kecerdasan buatan', 'blog teknologi indonesia']
+  author = 'ishakdev'
+  DateFormat = '2 January 2006'
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = 'Halo, selamat datang di Nalar Digital \U0001F44B'
+    Content = 'Blog seputar teknologi dan bagaimana kecerdasan buatan (AI) dimanfaatkan untuk membantu kehidupan manusia sehari-hari.'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/ishakdev'
+
+  [[params.socialIcons]]
+    name = 'rss'
+    url = 'index.xml'
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Artikel'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'about'
+    name = 'Tentang'
+    url = '/about/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'privacy'
+    name = 'Kebijakan Privasi'
+    url = '/privacy-policy/'
+    weight = 30
+  [[menu.main]]
+    identifier = 'search'
+    name = 'Cari'
+    url = '/search/'
+    weight = 40
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[markup]
+  [markup.highlight]
+    noClasses = false
