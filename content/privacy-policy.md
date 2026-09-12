@@ -19,4 +19,4 @@ Layanan pihak ketiga yang digunakan situs ini dapat menempatkan cookie di perang
 Sebagian konten di situs ini dapat memuat tautan afiliasi (misalnya Amazon Associates) atau iklan (misalnya Google AdSense). Jika Anda melakukan pembelian melalui tautan afiliasi, situs ini mungkin mendapatkan komisi tanpa biaya tambahan bagi Anda.
 
 ### Kontak
-Pertanyaan seputar kebijakan privasi ini dapat disampaikan melalui [GitHub](https://github.com/ishakdev).
+Pertanyaan seputar kebijakan privasi ini dapat disampaikan melalui [GitHub](https://github.com/ishaktrans-creator).

@@ -9,4 +9,4 @@ hidemeta: true
 
 Tulisan di sini ditujukan untuk pembaca umum yang ingin memahami perkembangan teknologi tanpa harus punya latar belakang teknis, sekaligus memberi perspektif praktis tentang cara memanfaatkan AI dalam kehidupan nyata.
 
-Punya pertanyaan, masukan, atau ide topik? Hubungi lewat [GitHub](https://github.com/ishakdev).
+Punya pertanyaan, masukan, atau ide topik? Hubungi lewat [GitHub](https://github.com/ishaktrans-creator).
