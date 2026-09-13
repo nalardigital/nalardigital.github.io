@@ -1,4 +1,4 @@
-baseURL = 'https://ishaktrans-creator.github.io/'
+baseURL = 'https://nalardigital.github.io/'
 locale = 'id-ID'
 title = 'Nalar Digital'
 theme = 'PaperMod'
@@ -14,7 +14,7 @@ buildExpired = false
   title = 'Nalar Digital'
   description = 'Blog tentang teknologi dan pemanfaatan AI untuk kehidupan manusia.'
   keywords = ['AI', 'teknologi', 'kecerdasan buatan', 'blog teknologi indonesia']
-  author = 'ishaktrans-creator'
+  author = 'nalardigital'
   DateFormat = '2 January 2006'
   defaultTheme = 'auto'
   disableThemeToggle = false
@@ -40,7 +40,7 @@ buildExpired = false
 
   [[params.socialIcons]]
     name = 'github'
-    url = 'https://github.com/ishaktrans-creator'
+    url = 'https://github.com/nalardigital'
 
   [[params.socialIcons]]
     name = 'rss'
