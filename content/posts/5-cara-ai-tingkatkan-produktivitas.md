@@ -1,6 +1,6 @@
 ---
 title: "5 Cara Memanfaatkan AI untuk Meningkatkan Produktivitas Harian"
-date: 2026-09-13T09:00:00+07:00
+date: 2026-09-09T08:00:00+07:00
 draft: false
 tags: ["AI", "produktivitas", "tips"]
 summary: "Dari menulis draf email hingga merangkum dokumen panjang, berikut lima cara praktis memanfaatkan AI agar pekerjaan harian lebih efisien."

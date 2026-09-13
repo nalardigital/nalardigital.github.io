@@ -1,6 +1,6 @@
 ---
 title: "Etika AI: Hal yang Perlu Diketahui Sebelum Mengandalkan Teknologi Ini"
-date: 2026-09-13T10:00:00+07:00
+date: 2026-09-09T10:00:00+07:00
 draft: false
 tags: ["AI", "etika", "teknologi"]
 summary: "Semakin banyak digunakan, semakin penting memahami sisi etis di balik kecerdasan buatan — mulai dari bias data hingga tanggung jawab atas keputusan yang dibuat mesin."

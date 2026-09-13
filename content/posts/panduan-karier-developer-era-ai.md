@@ -1,6 +1,6 @@
 ---
 title: "Panduan Karier Developer di Era AI Generatif: Skill, Peluang, dan Ancaman"
-date: 2026-09-13T10:00:00+07:00
+date: 2026-09-11T10:00:00+07:00
 draft: false
 categories: ["Karier & Bisnis di Era AI"]
 tags: ["karier developer", "skill AI", "masa depan pekerjaan", "pilar"]

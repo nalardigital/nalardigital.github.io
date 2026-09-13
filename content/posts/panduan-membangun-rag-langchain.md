@@ -1,6 +1,6 @@
 ---
 title: "Panduan Praktis Membangun Aplikasi RAG dari Nol"
-date: 2026-09-13T08:00:00+07:00
+date: 2026-09-10T08:00:00+07:00
 draft: false
 categories: ["Tutorial & Implementasi Teknis"]
 tags: ["RAG", "LangChain", "vector database", "LLM", "pilar"]

@@ -1,6 +1,6 @@
 ---
 title: "AI dalam Kehidupan Sehari-hari: Lebih Dekat dari yang Kita Sadari"
-date: 2026-09-13T08:00:00+07:00
+date: 2026-09-09T09:00:00+07:00
 draft: false
 tags: ["AI", "teknologi", "kehidupan sehari-hari"]
 summary: "Kecerdasan buatan bukan lagi teknologi masa depan yang jauh — ia sudah bekerja di balik layar berbagai aktivitas harian kita, dari rekomendasi tontonan hingga navigasi jalan."

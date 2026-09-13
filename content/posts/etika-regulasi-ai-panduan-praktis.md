@@ -1,6 +1,6 @@
 ---
 title: "Etika dan Regulasi AI: Panduan Praktis untuk Developer dan Perusahaan Teknologi"
-date: 2026-09-13T11:00:00+07:00
+date: 2026-09-12T11:00:00+07:00
 draft: false
 categories: ["Etika, Regulasi & Masa Depan AI"]
 tags: ["etika AI", "regulasi AI", "bias algoritma", "tata kelola data", "pilar"]

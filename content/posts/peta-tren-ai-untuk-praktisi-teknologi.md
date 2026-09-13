@@ -1,6 +1,6 @@
 ---
 title: "Peta Tren AI untuk Praktisi Teknologi: Kerangka Berpikir, Bukan Daftar Rilis"
-date: 2026-09-13T09:00:00+07:00
+date: 2026-09-11T09:00:00+07:00
 draft: false
 categories: ["Tren & Analisis Industri AI"]
 tags: ["tren AI", "analisis industri", "strategi teknologi", "pilar"]
