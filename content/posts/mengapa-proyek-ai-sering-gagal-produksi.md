@@ -5,8 +5,11 @@ draft: false
 categories: ["Tren & Analisis Industri AI"]
 tags: ["analisis industri", "strategi teknologi", "implementasi AI"]
 summary: "Pola berulang di balik proyek AI perusahaan yang berhenti di tahap pilot — dianalisis lewat kerangka berpikir dari pilar Tren & Analisis Industri AI di Nalar Digital."
+cover:
+  image: "images/covers/mengapa-proyek-ai-sering-gagal-produksi.png"
+  alt: "Ilustrasi sampul: Mengapa Banyak Proyek AI Berhenti di Tahap Pilot dan Tidak Pernah Sampai Produksi?"
+  relative: false
 ---
-
 Salah satu pola paling konsisten di industri teknologi beberapa tahun terakhir: banyak perusahaan meluncurkan pilot project AI dengan antusias tinggi, tapi sebagian besar tidak pernah sampai ke tahap produksi yang memberi dampak nyata. Menggunakan kerangka dari [Peta Tren AI untuk Praktisi Teknologi](/posts/peta-tren-ai-untuk-praktisi-teknologi/), artikel ini membedah pola kegagalan yang berulang tersebut.
 
 ## Pola Kegagalan yang Paling Umum

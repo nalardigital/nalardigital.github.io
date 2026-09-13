@@ -5,8 +5,11 @@ draft: false
 categories: ["Tutorial & Implementasi Teknis"]
 tags: ["evaluasi LLM", "LLM", "metrik", "produksi AI"]
 summary: "Rasa 'kelihatannya bagus' bukan metode evaluasi. Metrik dan metodologi praktis untuk mengukur kualitas output LLM secara sistematis sebelum dan sesudah masuk produksi."
+cover:
+  image: "images/covers/evaluasi-kualitas-output-llm.png"
+  alt: "Ilustrasi sampul: Evaluasi Kualitas Output LLM: Metrik yang Sering Diabaikan"
+  relative: false
 ---
-
 Tim yang membangun aplikasi berbasis LLM sering melewatkan satu langkah krusial: evaluasi sistematis. Keputusan seperti "prompt baru ini lebih baik" atau "model X lebih cocok" sering dibuat berdasarkan kesan subjektif dari segelintir contoh, bukan pengukuran yang konsisten. Artikel ini melengkapi [Panduan Praktis Membangun Aplikasi RAG](/posts/panduan-membangun-rag-langchain/) dan [Prompt Engineering Tingkat Lanjut](/posts/prompt-engineering-tingkat-lanjut/) dengan fokus khusus pada metodologi evaluasi.
 
 ## Mengapa "Kelihatannya Bagus" Tidak Cukup

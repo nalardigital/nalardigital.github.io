@@ -5,8 +5,11 @@ draft: false
 categories: ["Tutorial & Implementasi Teknis"]
 tags: ["AI agent", "function calling", "tutorial", "arsitektur", "LLM"]
 summary: "Pola arsitektur untuk menghubungkan LLM dengan sistem internal perusahaan lewat function calling/tool use — beserta pertimbangan keamanan yang wajib ada sebelum masuk produksi."
+cover:
+  image: "images/covers/menghubungkan-ai-agent-api-internal.png"
+  alt: "Ilustrasi sampul: Cara Menghubungkan AI Agent ke API Internal Perusahaan"
+  relative: false
 ---
-
 Setelah memahami dasar RAG di [Panduan Praktis Membangun Aplikasi RAG](/posts/panduan-membangun-rag-langchain/), langkah berikutnya yang sering dibutuhkan tim adalah menghubungkan LLM dengan sistem internal — misalnya untuk mengecek status pesanan, memperbarui data pelanggan, atau menjalankan query ke database internal. Ini masuk ke ranah "agentic AI": LLM tidak hanya menjawab, tapi juga mengambil aksi lewat API.
 
 ## Konsep Inti: Function Calling / Tool Use

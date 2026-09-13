@@ -5,8 +5,11 @@ draft: false
 categories: ["Tren & Analisis Industri AI"]
 tags: ["SDLC", "analisis industri", "praktik engineering"]
 summary: "AI tidak mengubah tahapan dasar SDLC, tapi mengubah secara signifikan di mana waktu tim dihabiskan pada setiap tahapan — analisis per fase, bukan klaim generik 'AI mempercepat development'."
+cover:
+  image: "images/covers/ai-mengubah-software-development-lifecycle.png"
+  alt: "Ilustrasi sampul: Bagaimana AI Mengubah Software Development Lifecycle"
+  relative: false
 ---
-
 Klaim "AI mempercepat software development" terlalu generik untuk berguna. Analisis yang lebih berguna: pada tahap SDLC (Software Development Lifecycle) mana dampaknya paling nyata, dan tahap mana yang justru butuh perhatian ekstra karena AI. Artikel ini menerapkan kerangka dari [Peta Tren AI untuk Praktisi Teknologi](/posts/peta-tren-ai-untuk-praktisi-teknologi/) ke konteks spesifik SDLC.
 
 ## Requirement & Desain: Dampak Tidak Langsung tapi Signifikan

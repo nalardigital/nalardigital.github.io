@@ -5,8 +5,11 @@ draft: false
 categories: ["AI Tools & Engineering"]
 tags: ["open source AI", "LLM", "biaya API", "arsitektur"]
 summary: "Bukan soal mana yang 'lebih baik' secara mutlak — kerangka praktis untuk memutuskan kapan API proprietary masuk akal, dan kapan self-hosting model open-source justru lebih murah dan lebih aman."
+cover:
+  image: "images/covers/api-berbayar-vs-model-open-source.png"
+  alt: "Ilustrasi sampul: API AI Berbayar vs Model Open-Source: Kerangka Keputusan Biaya dan Kontrol"
+  relative: false
 ---
-
 Pertanyaan "pakai API OpenAI/Anthropic/Google atau self-host model open-source?" tidak punya jawaban universal — jawabannya bergantung pada profil beban kerja, kebutuhan compliance, dan kapasitas tim infrastruktur Anda. Artikel ini membangun kerangka keputusan, bukan rekomendasi satu ukuran untuk semua, melengkapi [Panduan Lengkap Memilih AI Coding Assistant](/posts/panduan-memilih-ai-coding-assistant/) di pilar AI Tools & Engineering.
 
 ## Kapan API Proprietary Lebih Masuk Akal

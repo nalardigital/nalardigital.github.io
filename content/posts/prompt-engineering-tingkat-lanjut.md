@@ -5,8 +5,11 @@ draft: false
 categories: ["Tutorial & Implementasi Teknis"]
 tags: ["prompt engineering", "LLM", "produktivitas", "tutorial"]
 summary: "Melampaui tips dasar seperti 'jadilah spesifik' — teknik prompt engineering yang benar-benar berdampak pada konsistensi dan keandalan output LLM dalam aplikasi produksi."
+cover:
+  image: "images/covers/prompt-engineering-tingkat-lanjut.png"
+  alt: "Ilustrasi sampul: Prompt Engineering Tingkat Lanjut: Teknik yang Jarang Dibahas"
+  relative: false
 ---
-
 Kebanyakan panduan prompt engineering berhenti di tips level pemula: "jadilah spesifik", "beri contoh". Berguna, tapi tidak cukup untuk membangun aplikasi produksi yang butuh output konsisten dan andal. Artikel ini membahas teknik yang lebih jarang dibahas namun berdampak signifikan.
 
 ## 1. Decomposition: Pecah Task Kompleks Jadi Langkah Eksplisit

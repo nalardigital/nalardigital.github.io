@@ -5,8 +5,11 @@ draft: false
 categories: ["Karier & Bisnis di Era AI"]
 tags: ["karier developer", "skill AI", "masa depan pekerjaan", "pilar"]
 summary: "Panduan pilar untuk memahami bagaimana AI generatif benar-benar mengubah peran developer — bukan lewat ketakutan generik, tapi lewat analisis skill mana yang naik nilainya dan mana yang tergantikan."
+cover:
+  image: "images/covers/panduan-karier-developer-era-ai.png"
+  alt: "Ilustrasi sampul: Panduan Karier Developer di Era AI Generatif: Skill, Peluang, dan Ancaman"
+  relative: false
 ---
-
 Pertanyaan "apakah AI akan menggantikan developer?" sudah terlalu sering diajukan tanpa jawaban yang berguna. Pertanyaan yang lebih tepat: **skill mana yang nilainya naik, mana yang menurun, dan bagaimana developer harus menyesuaikan arah karier?** Artikel ini adalah panduan pilar untuk menjawabnya secara terstruktur.
 
 ## Apa yang Benar-benar Berubah

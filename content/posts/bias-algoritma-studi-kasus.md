@@ -5,8 +5,11 @@ draft: false
 categories: ["Etika, Regulasi & Masa Depan AI"]
 tags: ["bias algoritma", "etika AI", "studi kasus", "tata kelola data"]
 summary: "Dua kasus bias algoritma yang paling banyak dikutip dan terdokumentasi publik — apa yang sebenarnya terjadi, dan pelajaran konkret untuk tim yang membangun sistem berbasis AI."
+cover:
+  image: "images/covers/bias-algoritma-studi-kasus.png"
+  alt: "Ilustrasi sampul: Bias Algoritma dalam Praktik: Pelajaran dari Dua Kasus yang Terdokumentasi"
+  relative: false
 ---
-
 Diskusi soal bias algoritma sering berhenti di level konsep abstrak. Artikel ini membahas dua kasus yang benar-benar terdokumentasi secara publik, untuk melengkapi pembahasan di [Etika dan Regulasi AI: Panduan Praktis](/posts/etika-regulasi-ai-panduan-praktis/), dengan fokus pada pelajaran konkret yang bisa diterapkan tim engineering.
 
 ## Kasus 1: Sistem Rekrutmen Otomatis yang Bias Gender

@@ -4,8 +4,11 @@ date: 2026-09-09T08:00:00+07:00
 draft: false
 tags: ["AI", "produktivitas", "tips"]
 summary: "Dari menulis draf email hingga merangkum dokumen panjang, berikut lima cara praktis memanfaatkan AI agar pekerjaan harian lebih efisien."
+cover:
+  image: "images/covers/5-cara-ai-tingkatkan-produktivitas.png"
+  alt: "Ilustrasi sampul: 5 Cara Memanfaatkan AI untuk Meningkatkan Produktivitas Harian"
+  relative: false
 ---
-
 Kecerdasan buatan generatif seperti chatbot AI kini bisa menjadi asisten kerja yang membantu banyak tugas harian. Berikut lima cara praktis memanfaatkannya.
 
 ## 1. Merangkum Dokumen atau Artikel Panjang

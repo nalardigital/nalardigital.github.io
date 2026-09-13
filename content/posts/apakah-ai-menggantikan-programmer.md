@@ -5,8 +5,11 @@ draft: false
 categories: ["Karier & Bisnis di Era AI"]
 tags: ["karier developer", "masa depan pekerjaan", "analisis"]
 summary: "Alih-alih menebak masa depan, artikel ini memberi kerangka untuk menilai sendiri seberapa besar risiko otomatisasi pada pekerjaan spesifik Anda — melengkapi pilar Karier & Bisnis di Era AI."
+cover:
+  image: "images/covers/apakah-ai-menggantikan-programmer.png"
+  alt: "Ilustrasi sampul: Apakah AI Akan Menggantikan Pekerjaan Programmer? Menjawab dengan Kerangka, Bukan Prediksi"
+  relative: false
 ---
-
 Prediksi "AI akan/tidak akan menggantikan programmer" pada dasarnya adalah tebakan, karena bergantung pada asumsi soal kemajuan teknologi yang belum pasti. Pendekatan yang lebih berguna, dan menjadi fokus artikel ini: kerangka untuk menilai *tingkat risiko otomatisasi* pada jenis pekerjaan spesifik Anda, melengkapi [Panduan Karier Developer di Era AI Generatif](/posts/panduan-karier-developer-era-ai/).
 
 ## Mengapa Pertanyaannya Perlu Dipecah, Bukan Dijawab Sekaligus

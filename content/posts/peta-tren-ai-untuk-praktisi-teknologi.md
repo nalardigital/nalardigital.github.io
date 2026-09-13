@@ -5,8 +5,11 @@ draft: false
 categories: ["Tren & Analisis Industri AI"]
 tags: ["tren AI", "analisis industri", "strategi teknologi", "pilar"]
 summary: "Panduan pilar untuk menyaring hype dari sinyal nyata di industri AI — kerangka berpikir yang tetap relevan meski model dan tools baru bermunculan tiap bulan."
+cover:
+  image: "images/covers/peta-tren-ai-untuk-praktisi-teknologi.png"
+  alt: "Ilustrasi sampul: Peta Tren AI untuk Praktisi Teknologi: Kerangka Berpikir, Bukan Daftar Rilis"
+  relative: false
 ---
-
 Industri AI bergerak begitu cepat sehingga daftar "tren AI terbaru" nyaris kedaluwarsa saat dipublikasikan. Artikel ini mengambil pendekatan berbeda: alih-alih mendaftar rilis terbaru, kita membangun **kerangka berpikir** untuk menilai mana yang benar-benar berdampak pada pekerjaan Anda, dan mana yang sekadar siklus hype. Kerangka ini akan tetap relevan terlepas dari model atau tools apa yang rilis bulan depan.
 
 ## Mengapa Kebanyakan "Tren AI" Tidak Perlu Direspons Segera

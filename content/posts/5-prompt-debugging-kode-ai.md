@@ -5,8 +5,11 @@ draft: false
 categories: ["AI Tools & Engineering"]
 tags: ["debugging", "prompt engineering", "quick tips", "produktivitas developer"]
 summary: "Lima pola prompt siap pakai untuk mempercepat proses debugging dengan AI assistant, lebih efektif daripada sekadar menempelkan pesan error dan bertanya 'kenapa ini error'."
+cover:
+  image: "images/covers/5-prompt-debugging-kode-ai.png"
+  alt: "Ilustrasi sampul: 5 Prompt Berguna untuk Debugging Kode dengan AI"
+  relative: false
 ---
-
 Menempelkan pesan error lalu bertanya "kenapa ini error?" sering menghasilkan jawaban generik. Lima pola prompt berikut terbukti lebih efektif untuk debugging.
 
 ## 1. Minta Analisis Hipotesis, Bukan Langsung Solusi

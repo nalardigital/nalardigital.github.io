@@ -5,8 +5,11 @@ draft: false
 categories: ["Etika, Regulasi & Masa Depan AI"]
 tags: ["regulasi AI", "EU AI Act", "tata kelola data", "kepatuhan"]
 summary: "Kerangka risiko berjenjang dari EU AI Act relevan bahkan bagi perusahaan yang tidak berbasis di Eropa — regulasi ini berlaku ekstrateritorial bagi siapa pun yang produknya menjangkau pengguna di Uni Eropa."
+cover:
+  image: "images/covers/memahami-eu-ai-act-untuk-startup-asia.png"
+  alt: "Ilustrasi sampul: Memahami Kerangka EU AI Act: Apa yang Perlu Diketahui Perusahaan Teknologi Asia"
+  relative: false
 ---
-
 Banyak perusahaan teknologi Asia menganggap regulasi Uni Eropa "bukan urusan kita" karena berbasis di luar Eropa. Ini asumsi keliru: EU AI Act, seperti halnya GDPR sebelumnya, berlaku ekstrateritorial — jika produk Anda menjangkau pengguna di Uni Eropa, ketentuannya berpotensi berlaku terlepas dari lokasi kantor pusat perusahaan Anda. Artikel ini melengkapi [Etika dan Regulasi AI: Panduan Praktis](/posts/etika-regulasi-ai-panduan-praktis/) dengan fokus pada kerangka regulasi spesifik ini.
 
 ## Prinsip Dasar: Regulasi Berbasis Risiko

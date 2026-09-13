@@ -5,8 +5,11 @@ draft: false
 categories: ["Tutorial & Implementasi Teknis"]
 tags: ["RAG", "LangChain", "vector database", "LLM", "pilar"]
 summary: "Panduan pilar untuk memahami arsitektur Retrieval-Augmented Generation (RAG), komponen intinya, dan langkah implementasi dasar — fondasi sebelum masuk ke teknik optimasi lanjutan."
+cover:
+  image: "images/covers/panduan-membangun-rag-langchain.png"
+  alt: "Ilustrasi sampul: Panduan Praktis Membangun Aplikasi RAG dari Nol"
+  relative: false
 ---
-
 Retrieval-Augmented Generation (RAG) adalah salah satu pola arsitektur paling praktis untuk membuat LLM menjawab berdasarkan data spesifik Anda — dokumentasi internal, basis pengetahuan produk, atau data perusahaan — tanpa perlu fine-tuning model. Artikel ini adalah panduan pilar: memahami konsep inti, komponen arsitektur, dan implementasi dasar sebelum masuk ke teknik optimasi yang lebih lanjut.
 
 ## Mengapa RAG, Bukan Fine-tuning?

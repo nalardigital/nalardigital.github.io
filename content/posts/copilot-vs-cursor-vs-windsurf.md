@@ -5,8 +5,11 @@ draft: false
 categories: ["AI Tools & Engineering"]
 tags: ["GitHub Copilot", "Cursor", "Windsurf", "AI coding assistant", "perbandingan tools"]
 summary: "Perbandingan praktis tiga AI coding assistant paling populer berdasarkan model interaksi, pemahaman konteks codebase, dan skenario penggunaan yang paling cocok untuk masing-masing."
+cover:
+  image: "images/covers/copilot-vs-cursor-vs-windsurf.png"
+  alt: "Ilustrasi sampul: GitHub Copilot vs Cursor vs Windsurf: Mana Paling Efisien untuk Developer?"
+  relative: false
 ---
-
 Mengikuti kerangka dari [panduan memilih AI coding assistant](/posts/panduan-memilih-ai-coding-assistant/), artikel ini membandingkan tiga pilihan yang paling sering ditanyakan developer: GitHub Copilot, Cursor, dan Windsurf. Alih-alih menyatakan satu "pemenang mutlak", perbandingan ini fokus ke skenario penggunaan mana yang paling cocok untuk masing-masing — karena ketiganya punya filosofi desain yang berbeda.
 
 ## Filosofi Desain yang Berbeda

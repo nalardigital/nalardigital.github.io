@@ -5,8 +5,11 @@ draft: false
 categories: ["AI Tools & Engineering"]
 tags: ["AI coding assistant", "GitHub Copilot", "Cursor", "produktivitas developer", "pilar"]
 summary: "Panduan pilar untuk memahami lanskap AI coding assistant, kriteria memilih yang tepat sesuai kebutuhan tim, dan cara mengukur dampaknya terhadap produktivitas nyata — bukan sekadar hype."
+cover:
+  image: "images/covers/panduan-memilih-ai-coding-assistant.png"
+  alt: "Ilustrasi sampul: Panduan Lengkap Memilih AI Coding Assistant untuk Developer Indonesia"
+  relative: false
 ---
-
 AI coding assistant sudah bergeser dari "fitur eksperimental" menjadi bagian standar workflow development. Tapi dengan puluhan pilihan yang beredar — dari extension IDE, editor AI-native, sampai agent yang bisa menjalankan seluruh task secara otonom — memilih yang tepat untuk kebutuhan Anda atau tim jadi masalah tersendiri. Artikel ini adalah panduan pilar: kerangka berpikir untuk menilai, memilih, dan mengukur dampak AI coding assistant, tanpa terjebak hype rilis mingguan.
 
 ## Kategori AI Coding Assistant

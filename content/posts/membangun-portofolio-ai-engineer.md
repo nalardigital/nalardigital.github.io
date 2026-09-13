@@ -5,8 +5,11 @@ draft: false
 categories: ["Karier & Bisnis di Era AI"]
 tags: ["karier developer", "portofolio", "AI engineer", "panduan praktis"]
 summary: "Portofolio yang meyakinkan bukan soal jumlah proyek, tapi soal menunjukkan kemampuan mengambil keputusan teknis. Panduan praktis membangun portofolio AI engineer yang benar-benar dilirik perekrut."
+cover:
+  image: "images/covers/membangun-portofolio-ai-engineer.png"
+  alt: "Ilustrasi sampul: Cara Membangun Portofolio AI Engineer dari Nol"
+  relative: false
 ---
-
 Portofolio AI engineer yang berisi lima chatbot dengan tutorial yang sama persis dari YouTube tidak akan membedakan Anda dari ribuan kandidat lain. Mengikuti kerangka dari [Panduan Karier Developer di Era AI Generatif](/posts/panduan-karier-developer-era-ai/), artikel ini membahas cara membangun portofolio yang benar-benar menunjukkan kemampuan yang dicari perekrut: pengambilan keputusan teknis, bukan sekadar mengikuti tutorial.
 
 ## Mengapa Portofolio "Ikut Tutorial" Tidak Cukup

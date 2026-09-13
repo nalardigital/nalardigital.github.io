@@ -4,8 +4,11 @@ date: 2026-09-09T10:00:00+07:00
 draft: false
 tags: ["AI", "etika", "teknologi"]
 summary: "Semakin banyak digunakan, semakin penting memahami sisi etis di balik kecerdasan buatan — mulai dari bias data hingga tanggung jawab atas keputusan yang dibuat mesin."
+cover:
+  image: "images/covers/etika-ai-yang-perlu-diketahui.png"
+  alt: "Ilustrasi sampul: Etika AI: Hal yang Perlu Diketahui Sebelum Mengandalkan Teknologi Ini"
+  relative: false
 ---
-
 Di balik kemudahan yang ditawarkan, kecerdasan buatan juga membawa sejumlah pertanyaan etis yang penting dipahami oleh siapa pun yang menggunakannya.
 
 ## Bias dalam Data

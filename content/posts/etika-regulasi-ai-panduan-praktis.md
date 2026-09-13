@@ -5,8 +5,11 @@ draft: false
 categories: ["Etika, Regulasi & Masa Depan AI"]
 tags: ["etika AI", "regulasi AI", "bias algoritma", "tata kelola data", "pilar"]
 summary: "Panduan pilar untuk memahami isu etika dan regulasi AI dari perspektif praktis — apa yang perlu dipahami developer dan perusahaan teknologi, bukan sekadar diskusi filosofis abstrak."
+cover:
+  image: "images/covers/etika-regulasi-ai-panduan-praktis.png"
+  alt: "Ilustrasi sampul: Etika dan Regulasi AI: Panduan Praktis untuk Developer dan Perusahaan Teknologi"
+  relative: false
 ---
-
 Diskusi etika AI sering terjebak di level filosofis abstrak — jauh dari keputusan konkret yang harus diambil developer dan perusahaan teknologi sehari-hari. Artikel ini adalah panduan pilar yang mengambil sudut pandang praktis: apa saja isu etika dan regulasi AI yang benar-benar berdampak pada pekerjaan teknis, dan bagaimana menanganinya.
 
 ## Mengapa Ini Bukan Sekadar Urusan Tim Legal
