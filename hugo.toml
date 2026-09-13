@@ -1,4 +1,6 @@
 baseURL = 'https://nalardigital.github.io/'
+languageCode = 'id-ID'
+defaultContentLanguage = 'id'
 locale = 'id-ID'
 title = 'Nalar Digital'
 theme = 'PaperMod'
