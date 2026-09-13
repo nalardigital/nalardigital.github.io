@@ -35,8 +35,12 @@ buildExpired = false
   tocopen = false
 
   [params.homeInfoParams]
-    Title = 'Halo, selamat datang di Nalar Digital \U0001F44B'
-    Content = 'Blog seputar teknologi dan bagaimana kecerdasan buatan (AI) dimanfaatkan untuk membantu kehidupan manusia sehari-hari.'
+    Title = 'Nalar di Balik Teknologi \U0001F9E0'
+    Content = 'Blog seputar teknologi dan bagaimana kecerdasan buatan (AI) dimanfaatkan untuk membantu kehidupan manusia sehari-hari — ditulis untuk pembaca umum, bukan hanya praktisi.'
+
+  [params.label]
+    text = 'Nalar Digital'
+    iconSVG = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="26" height="26" aria-hidden="true"><rect width="32" height="32" rx="9" fill="url(#nd-grad)"/><defs><linearGradient id="nd-grad" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse"><stop stop-color="#6366F1"/><stop offset="1" stop-color="#4338CA"/></linearGradient></defs><text x="16" y="22" font-family="'Sora',Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">N</text></svg>'''
 
   [[params.socialIcons]]
     name = 'github'
